@@ -25,7 +25,7 @@ Real-time fraud detection:
 
 ---
 
-## 2. 🎯 Project Objectives
+## 2.  Project Objectives
 
 ### Core Goals
 - Detect fraudulent credit card transactions using machine learning  
